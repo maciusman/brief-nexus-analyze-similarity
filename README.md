@@ -103,3 +103,7 @@ Parser został zaktualizowany, aby obsługiwał:
 - Embedding ~46 sekcji: ~15-25 sekund
 - Similarity matrix 46x46: ~1 sekunda
 - **Total: < 30 sekund na pełną analizę**
+
+**🔗 Opis narzędzia na moim blogu**: https://aiposition.pl/blog/aplikacje/content-similarity-analyzer-wykrywanie-kanibalizacji-tresci-na-etapie-briefu
+
+**🔗 Skontaktuj się ze mną na LinkedIn**: https://www.linkedin.com/in/walczuk-maciej/
